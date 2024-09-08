@@ -117,3 +117,28 @@ footer {
     margin: 0; /* Remove as margens padrão */
 }
 
+/* Media Query para telas menores (ex: smartphones) */
+@media (max-width: 768px) {
+    body {
+        padding: 1rem; /* Adiciona um padding para evitar que o conteúdo seja cortado */
+    }
+
+    h1 {
+        font-size: 2rem; /* Diminui o tamanho da fonte */
+        padding: 2px 20px; /* Diminui o padding */
+    }
+
+    section input,
+    section button {
+        width: 100%; /* Ocupa toda a largura da tela */
+    }
+
+    .resultados-pesquisa {
+        width: 100%;
+        height: auto; /* Permite que a altura se ajuste automaticamente ao conteúdo */
+    }
+
+    .item-resultado {
+        width: 100%;
+    }
+}
