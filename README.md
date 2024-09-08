@@ -1,4 +1,4 @@
-## **README Descontraído: Sua Máquina do Tempo Musical** 
+## **História da Música: Sua Máquina do Tempo Musical** 
 
 **O que é essa bagaça?**
 
@@ -27,3 +27,14 @@ Se você curtiu essa viagem musical, deixa um estrelinha aí pra gente! E se tiv
 **Vamos juntos explorar o mundo da música!** 
 
 **#historiadamusica #instrumentosmusicais #desenvolvimentoweb #javascript #html #css**
+
+---
+
+**Lucas De Almeida Silva Sigolo Fernandes**
+**lukasigolo@gmail.com**
+**https://github.com/fernandezluk4s**
+
+---
+
+**Link Vercel:**
+**https://historia-da-musica.vercel.app**
